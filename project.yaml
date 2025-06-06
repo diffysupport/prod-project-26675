@@ -24,10 +24,10 @@ basic:
 advanced:
     mask: ''
     remove: ''
-    delay: 15
-    scroll: true
+    delay: 10
+    scroll: false
     headers:
-        - { header: '', value: '' }
+        - null
     cookies: ''
     custom_js: ''
     custom_css: ''
